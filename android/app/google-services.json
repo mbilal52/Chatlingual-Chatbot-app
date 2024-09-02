@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005430108140",
+    "project_id": "chatgpt-fyp-project",
+    "storage_bucket": "chatgpt-fyp-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005430108140:android:576f626505b35bf62e9ac9",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZ5Ez5xd3EGbGGtLi3HcJBQ_QzdlKHnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
